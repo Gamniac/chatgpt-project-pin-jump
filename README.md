@@ -57,7 +57,7 @@ The script only reads DOM state and URL information already present in the curre
 
 ### Tampermonkey
 
-1. Install Tampermonkey for your browser.
+1. Install Tampermonkey https://www.tampermonkey.net/?locale=en for your browser.
 2. Create a new userscript.
 3. Replace the default template with `chatgpt-project-pin-jump.user.js`.
 4. Save it.
